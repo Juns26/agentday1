@@ -1,0 +1,25 @@
+{
+  "name": "agentday1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juns26/agentday1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Juns26/agentday1/issues"
+  },
+  "homepage": "https://github.com/Juns26/agentday1#readme",
+  "dependencies": {
+    "@google/genai": "^2.18.0",
+    "dotenv": "^17.4.2"
+  }
+}
